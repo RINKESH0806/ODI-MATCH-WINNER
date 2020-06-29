@@ -1,1 +1,2 @@
-# ODI-MATCH-WINNER daa
+# ODI-MATCH-WINNER
+Our country shares a great deal of history with the game of Cricket. Introduced as a royal game by the British during the British Raj, India took on the game as a popular sport even after its Independence. Today Cricket is more than just a sport in India. Given are 10 distinguishing factors that can influence the outcome of a cricket match. I predicted the winning team of an ODI (One Day International) match with log-loss of 0.81201
